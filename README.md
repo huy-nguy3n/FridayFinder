@@ -4,9 +4,9 @@
 
 ### Clone Repo:
 ```bash
-git clone https://github.com/kainoabrabo/nextjs-ff.git
+git clone https://github.com/huy-nguy3n/FridayFinder.git
 
-cd nextjs-ff
+cd FridayFinder
 ```
 
 ### Install [Docker Desktop](https://www.docker.com/) then open Docker Desktop
