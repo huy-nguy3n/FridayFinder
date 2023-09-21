@@ -1,6 +1,6 @@
 # Getting Started with FridayFinder
 
-<img width="1004" alt="FridayFinder" src="https://github.com/huy-nguy3n/FridayFinder/assets/115086723/367c6fcb-459b-493b-aefb-9279cef99fce">
+<img width="500" alt="FridayFinder" src="https://github.com/huy-nguy3n/FridayFinder/assets/115086723/367c6fcb-459b-493b-aefb-9279cef99fce">
 
 ## Install:
 
